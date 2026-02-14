@@ -15,9 +15,7 @@ actionable business insights.
 ------------------------------------------------------------------------
 
 ## 📂 Data Source
-
-PaySim Synthetic Financial Dataset\
-Kaggle Link: https://www.kaggle.com/datasets/ealaxi/paysim1
+ Link: (https://www.google.com/url?sa=D&q=https://drive.google.com/uc%3Fexport%3Ddownload%26confirm%3D6gh6%26id%3D1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&ust=1771163160000000&usg=AOvVaw1dSKqFQf9m3mKm9_pVS05Z&hl=en-GB)
 
 ------------------------------------------------------------------------
 
